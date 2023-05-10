@@ -1,7 +1,7 @@
 ![](https://github.com/Mark-LohseMiranda/Mark-LohseMiranda/blob/main/banner.png)
 
  <h2>Hiya! I'm Mark and I'm a </h2> 
- <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=false&vCenter=true&width=300&height=50&lines=Full+Stack+Web+Developer;Parent;Lover+of+Nature;Philomath" alt="Typing SVG" /></p>
+ <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=300&center=false&vCenter=true&width=300&height=50&lines=Full+Stack+Web+Developer;Parent;Lover+of+Nature;Philomath" alt="Typing SVG" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
