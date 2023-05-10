@@ -14,3 +14,12 @@ As the saying goes: you don't know what you don't know. Or so I've been told. I 
 <a href="https://www.linkedin.com/in/mark-lohse-miranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-mark--lohse--miranda-blue"></a>
 <a href="https://wa.link/ypq77n"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-red"></a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Mark-LohseMiranda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mark-LohseMiranda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mark-LohseMiranda&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
