@@ -1,5 +1,7 @@
 ![](https://github.com/Mark-LohseMiranda/Mark-LohseMiranda/blob/main/banner.png)
 
+<img src="https://github.com/Mark-LohseMiranda/Mark-LohseMiranda/blob/main/banner.png" height="auto" style="border-radius:50%"/>
+
  <h2>Hiya! I'm Mark and I'm a </h2> 
  <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=300&center=false&vCenter=true&width=300&height=50&lines=Full+Stack+Web+Developer;Parent;Lover+of+Nature;Philomath" alt="Typing SVG" /></p>
 
@@ -23,3 +25,6 @@ As the saying goes: you don't know what you don't know. Or so I've been told. I 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mark-LohseMiranda&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xppgl1kwb1kvt628i1jusj7vb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
