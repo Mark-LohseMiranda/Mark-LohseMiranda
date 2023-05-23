@@ -5,7 +5,25 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-As the saying goes: you don't know what you don't know. Or so I've been told. I know I'm good with skills ranging from JavaScript through PL/SQL to Cloud Infrastructure and beyond. I excel at learning and overcoming obstacles, and my energy and motivation are near the moon. I recognize that my knowledge is just the tip of the iceberg. I need a company that will allow me to find the bottom of that iceberg. Let's chat!
+Thank you for visiting. I am Mark Lohse-Miranda and I am a 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓!
+
+This means that I can handle whatever your website needs are. 
+<ul>
+<li>One-page landing site
+</li>
+<li>Complex interactive, visually appealing site with a shopping cart and user accounts
+</li>
+<li>SEO on your current site wether hosted on WordPress or elsewhere
+</li>
+<li>and more!
+</li>
+</ul>
+
+I love projects, large and small. Just need something updated? I can do that. Need something built from the ground up? I can do that!
+
+Currently, I am looking for work. If you're an employer or recruiter, I'd love to chat to see if we're a good fit. If you're a non-profit looking for volunteers, I'd love to assist.
+
+To find out more about me head to -> https://www.mark-lohsemiranda.com/
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -24,6 +42,6 @@ As the saying goes: you don't know what you don't know. Or so I've been told. I 
 </a>
 </p>
 
-### Spotify Playing 🎧
+### 🎧 &nbsp;Spotify Playing 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xppgl1kwb1kvt628i1jusj7vb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
