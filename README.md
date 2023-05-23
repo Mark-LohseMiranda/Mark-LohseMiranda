@@ -13,7 +13,7 @@ This means that I can handle whatever your website needs are.
 </li>
 <li>Complex interactive, visually appealing site with a shopping cart and user accounts
 </li>
-<li>SEO on your current site wether hosted on WordPress or elsewhere
+<li>SEO on your current site whether hosted on WordPress or elsewhere
 </li>
 <li>and more!
 </li>
