@@ -26,9 +26,8 @@ Currently, I am looking for work. If you're an employer or recruiter, I'd love t
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.mark-lohsemiranda.com/"><img alt="Website" src="https://img.shields.io/badge/website-mark--lohsemiranda.com-green"></a>
+[![Email](https://img.shields.io/badge/email-mark--guardiancodewebservices.com-green)](mailto:mark@guardiancodewebservices.com)
 <a href="https://www.linkedin.com/in/mark-lohse-miranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-mark--lohse--miranda-blue"></a>
-<a href="https://wa.link/ypq77n"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-red"></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
