@@ -26,7 +26,7 @@ Currently, I am looking for work. If you're an employer or recruiter, I'd love t
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-[![Email](https://img.shields.io/badge/email-mark--guardiancodewebservices.com-green)](mailto:mark@guardiancodewebservices.com)
+<a href="mailto:mark@guardiancodewebservices.com"><img alt="Email" src="https://img.shields.io/badge/email-mark@guardiancodewebservices.com-green"></a>
 <a href="https://www.linkedin.com/in/mark-lohse-miranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-mark--lohse--miranda-blue"></a>
 </p>
 
