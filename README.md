@@ -23,8 +23,6 @@ I love projects, large and small. Just need something updated? I can do that. Ne
 
 Currently, I am looking for work. If you're an employer or recruiter, I'd love to chat to see if we're a good fit. If you're a non-profit looking for volunteers, I'd love to assist.
 
-To find out more about me head to -> https://www.mark-lohsemiranda.com/
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -44,4 +42,4 @@ To find out more about me head to -> https://www.mark-lohsemiranda.com/
 
 ### 🎧 &nbsp;Spotify Playing 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xppgl1kwb1kvt628i1jusj7vb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xppgl1kwb1kvt628i1jusj7vb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
